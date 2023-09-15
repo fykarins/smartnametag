@@ -1,0 +1,124 @@
+*,
+html{
+    margin:  0;
+    padding: 0;
+}
+
+
+/* MAIN NAVIGATION BAR */
+.container-navbar{
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    color: pink;
+    width: 100%;
+    height: 31vh;
+    font: 100;
+}
+.ul1-navbar{
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    color: palevioletred;
+    width: 100%;
+    height: 12vh;
+    font: 100;
+
+    padding: 0px;
+    font-size: 20px;
+    width: 100%;
+    height: 88px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container label{
+    text-align: left;
+    color: aqua;
+}  
+.container form input{
+    background-color: transparent;
+    border-bottom: 1px solid pink;
+    border-top: 1px solid pink;
+    border-left: 1px solid pink;
+    border-right: 1px solid pink;
+    color: pink;
+    font-size: 15px;
+}
+.container form button{
+    width: 98%;
+    padding: 1px;
+    margin: 2px;
+    border: none;
+    background-color: rgb(227, 83, 124);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+}
+/* end */
+
+
+/* NAVIGATION BAR */
+.ul-navbar{
+    display: flex;
+    justify-content: center;
+    border: aqua;
+    border: 1px solid deeppink;
+    background-color: pink;
+}
+.ul-navbar{
+    background-color: palevioletred;
+    color: deeppink;
+    text-decoration: none;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 75px;
+}
+.li-navbar{
+    justify-content: center;
+    list-style-type:none;
+    padding:3px;
+    margin: 3px;
+    font-size:15px;
+}
+.li-navbar:hover {
+    transition: .2s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 8px;
+}
+.a-navbar {
+    text-decoration: wavy;
+    color:rgb(30, 249, 249);
+    background-color: none;
+}
+/* end */
+
+
+/* IMAGE OF SMART NAME TAG */
+.img-content{
+    width: 100%;
+    height: 63vh;
+    justify-content: center;
+}
+/* end */
+
+
+/* FOOTER  */
+.container-footer{
+    background-color: palevioletred;
+    color:aqua;
+    height: 100vh;
+    padding: 5px;
+    font-size: 10px;
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1-footer{
+    font-size: 20px;
+}
+/* end */
+
