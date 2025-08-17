@@ -19,3 +19,20 @@ The system highlights critical warnings (e.g., abnormal heart rate, sudden falls
 The dashboard provides clear visual analytics with charts, color-coded indicators, and daily activity summaries, enabling caregivers to track trends and make informed healthcare decisions.
 
 In short, while the wearable Smart-Nametag is the data collector, the website is the central hub that transforms raw sensor data into actionable insights. This makes it easier for caregivers to deliver proactive and personalized care for the elderly, improving safety, health management, and overall quality of life.
+
+## System Overview
+<img src="images/1.png" alt="Smart-Nametag overview" width="900" />
+<img src="images/2.png" alt="Dashboard UI" width="900" />
+
+## Web Dashboard (Main Feature)
+- Real-time vitals: heart rate, temperature, blood pressure
+- Activity & location tracking (map)
+- Alerts & notifications for abnormal events
+- Trends and history with clear visualizations
+
+
+
+## Tech Stack
+- **Hardware:** ESP32 + MAX30123, MLX90614, GY-85, AS312, BP sensor, GPS
+- **Connectivity:** Wi-Fi / IoT to cloud
+- **Frontend:** Web dashboard for monitoring
