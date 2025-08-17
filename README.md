@@ -30,7 +30,14 @@ In short, while the wearable Smart-Nametag is the data collector, the website is
 - Activity & location tracking (map)
 - Alerts & notifications for abnormal events
 - Trends and history with clear visualizations
-
+<img src="assets/1.home.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/2.instagram.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/3.login.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/4.signup.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/5.dashboard.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/6.warning.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/7.devices.png" alt="Smart-Nametag Web Dashboard" width="800"/>
+<img src="assets/8.history.png" alt="Smart-Nametag Web Dashboard" width="800"/>
 
 ## Tech Stack
 - **Hardware:** ESP32 + MAX30123, MLX90614, GY-85, AS312, BP sensor, GPS
